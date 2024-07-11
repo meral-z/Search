@@ -1,0 +1,9 @@
+#center {
+    width: 400px; 
+    margin: auto; 
+    text-align: center;
+  }
+
+#search{
+    border-radius: 50px;
+  }
